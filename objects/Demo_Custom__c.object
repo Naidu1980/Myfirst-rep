@@ -181,8 +181,12 @@
     </fields>
     <fields>
         <fullName>Field_Three__c</fullName>
-        <defaultValue>false</defaultValue>
-        <label>Phone</label>
+        <externalId>false</externalId>
+        <label>Field Three</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+        <unique>false</unique>
     </fields>
     <validationRules>
         <fullName>DemoValidationRuleOne</fullName>
